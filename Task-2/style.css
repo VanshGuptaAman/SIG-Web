@@ -1,0 +1,42 @@
+#div
+{
+    margin:Auto;
+    padding:Auto;
+    border:2px solid black;
+    width:800px;
+    height: 800px;
+    font-weight: bolder;
+}
+#div1
+{
+    margin:0px;
+    padding:0px;
+    height:100px;
+    width:100px;
+    background-color: brown;
+    float:left;
+    color:white;
+    text-align: right;
+}
+#div2
+{
+    margin:0px;
+    padding:0px;
+    height:100px;
+    width:100px;
+    background-color:white;
+    float:left;
+    color:black;
+    text-align: right;
+}
+h1
+{
+    font-family: cursive;
+    color:wheat;
+    text-align: center;
+}
+img
+{
+    width:80px;
+    height:80px;
+}
