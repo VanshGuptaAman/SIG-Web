@@ -1,0 +1,427 @@
+#header
+{
+    min-height: 730px;
+    width: 1336px;
+    background: url("images/banner1.jpg");
+    background-size: 100% 100%;
+    margin: 0px;
+}
+#header1
+{
+    height: 730px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+#top
+{
+    width: 100%;
+    height:50px;
+}
+#topleft
+{
+    width: 613px;
+    height: 100%;
+    float: left;
+    padding-left: 55px;
+    line-height: 50px;
+    text-align: left;
+}
+#topright
+{
+    width: 613px;
+    height: 100%;
+    float: right;
+    padding-right: 55px;
+    line-height: 50px;
+    text-align: right;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    color:rgb(59, 226, 255);
+}
+#header1 hr
+{
+    width: 95%;
+    border: 1px solid rgb(172, 167, 167);
+}
+#top1
+{
+    width: 1336px;
+    height: 55px;  
+}
+#logo
+{
+    height: 55px;
+    width: 596px;
+    float: left;
+}
+#logo h1
+{
+    line-height: 75px;
+    margin-left: 55px;
+    margin-top: 0px;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+#menu
+{
+    height: 55px;
+    width: 740px;
+    float: left;
+}
+#mainmenu
+{
+    font-family: calibri;
+    font-size: 18px;
+    list-style-type: none;
+}
+#mainmenu ul
+{
+    font-family: calibri;
+    line-height: 23px;
+    font-size: 18px;
+    list-style-type: none;
+}
+#mainmenu a
+{
+    text-decoration: none;
+    color: white;
+}
+.menu
+{
+    line-height: 55px;
+    height: 55px;
+    width: 60px;
+    margin-left: 65px;
+    float: left;
+}
+#submenu
+{
+    width: 100px;
+    margin-left: -36px;
+    margin-top: 0px;
+    background-color: white;
+    display: none;
+    text-align: center;
+}
+.submenu
+{
+    margin-left: -36px;
+    color: rgb(54, 54, 54);
+}
+.menu:hover
+{
+    color:rgb(59, 226, 255);
+    text-shadow: 1px 1px 1px rgb(49, 49, 49);
+}
+.menu:hover #submenu
+{
+    display: block;
+}
+.submenu:hover
+{
+    color:rgb(59, 226, 255);
+}
+#top2
+{
+    text-align: center;
+    margin-top: 190px;
+    font-size: 120%;
+}
+#button
+{
+    margin: auto;
+    text-align: center;
+    width: 180px;
+    height: 45px;
+    background: rgb(59, 226, 255);
+    line-height: 45px;
+}
+#top2 h1
+{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+#button p
+{
+    text-decoration: none;
+    color: white;
+    font-family: calibri;
+}
+
+#about
+    {
+        width: 1200px;
+        height: 450px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin: 0px auto;
+        
+    }
+#labout
+    {
+        width: 550px;
+        height: 100%;
+        background: url('images/g1.jpg');
+        background-size: 100% 100%;
+        float: left;
+    }
+#rabout
+    {
+        padding-left: 50px;
+        width: 600px;
+        height: 100%;
+        float: right;
+        font-family: sans-serif;
+    }
+#rabout p
+    {
+        text-align: justify;
+        font-size: 20px;
+        font-family: calibri;
+    }
+#rabout a p
+    {
+        text-align: center;
+        width: 180px;
+        height: 45px;
+        background: rgb(59, 226, 255);
+        line-height: 45px;
+        color: white;
+    }
+#rabout a
+    {
+        text-decoration: none;
+    }
+#services
+{
+    width: 1200px;
+    height: 500px;
+    font-family: calibri;
+}
+#services h1
+{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 30px 0px 30px 0px;
+}
+.f1
+{
+    padding-left: 50px;
+    height: 200px;
+    width: 1300px;
+    margin: auto;
+}
+.f2
+{
+    padding-top: 30px;
+    margin-left: 50px;
+    height: 170px;
+    width: 50px;
+    float: left;
+}
+.f3
+{
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+.f3 p
+{
+    color: rgb(54, 54, 54);
+}
+
+#gallery
+{
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+}
+#gallery h1
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.G1
+{
+    height: 300px;
+    width: 1200px;
+}
+.G2
+{
+    height: 300px;
+    width: 400px;
+    float: left;
+}
+.G2 img
+{
+    height: 250px;
+    width: 350px;
+    margin: 25px;
+}
+
+#team
+{
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#team h1
+{
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: sans-serif;
+}
+#team1
+{
+    height: 350px;
+    width: 1200px;
+    margin: auto;
+}
+.t1
+{
+    height: 350px;
+    width: 400px;
+    float: left;
+}
+.t21
+{
+    margin-left: 25px;
+    height: 350px;
+    width: 300px;
+    float: left;
+    background: url('images/team1.jpg');
+    background-size: 100% 100%;
+}
+.t22
+{
+    margin-left: 25px;
+    height: 350px;
+    width: 300px;
+    float: left;
+    background: url('images/team2.jpg');
+    background-size: 100% 100%;
+}
+.t23
+{
+    margin-left: 25px;
+    height: 350px;
+    width: 300px;
+    float: left;
+    background: url('images/team3.jpg');
+    background-size: 100% 100%;
+}
+.t3
+{
+    height: 130px;
+    width: 50px;
+    margin-right: 25px;
+    background-color: rgb(53, 53, 53);
+    float: left;
+}
+.t4
+{
+    margin-top: 200px;
+    height: 90px;
+    width: 240px;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+#getstart
+{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(3, 3, 3);
+    color: white;
+    font-family: verdana;
+    font-size: 120%;
+    padding-top: 100px;
+}
+#get1
+{
+    height: 400px;
+    width: 42%;
+    float: left;
+    padding-left: 8%;
+}
+#get2
+{
+    height: 400px;
+    width: 42%;
+    float: left;
+    padding-right: 7%;
+}
+#get1 hr
+{
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+
+#testimonials
+{
+    height: 370px;
+    width: 100%;
+    background: url('images/banner3.jpg');
+    background-size: 100% 140%;
+    padding-top: 30px
+}
+#testimonials h1
+{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 70px;
+}
+#test
+{
+    height: 150px;
+    width: 1150px;
+    margin: auto;
+}
+.test1
+{
+    height: 150px;
+    width: 545px;
+    float: left;
+    margin: 0px 15px;
+    background: white;
+}
+#test11
+{
+    margin: 30px 30px;
+    width: 80px;
+    height: 80px;
+    background: url('images/te1.jpg');
+    background-size: 100% 100%;
+    border-radius: 50%;
+    float: left;
+}
+#test12
+{
+    margin: 30px 30px;
+    width: 80px;
+    height: 80px;
+    background: url('images/te2.jpg');
+    background-size: 100% 100%;
+    border-radius: 50%;
+    float: left;
+}
+.test2
+{
+    height: 130px;
+    width: 385px;
+    float: left;
+    padding: 10px;
+}
+.test2 p
+{
+    font-family: calibri;
+    color: rgb(46, 46, 46);
+    font-size: 18px;
+}
