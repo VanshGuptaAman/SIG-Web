@@ -1,0 +1,33 @@
+body
+{
+    background: black;
+    padding-top: 150px;
+}
+#box
+{
+    min-height: 300px;
+    width: 800;
+    background: silver;
+    margin: 0px auto;
+}
+.a
+{
+    height:240px;
+    width: 340px;
+    background: black;
+    float: left;
+    border: 10px solid red;
+    margin: 20px;
+    color: red;
+    text-align: center;
+    line-height: 240px;
+    font-size: 250px;
+}
+h1{
+    background: black;
+    margin: 2%;
+    color: red;
+    text-align: center;
+    line-height: 50px;
+    font-size: 40px;
+}
